@@ -75,7 +75,7 @@ Cloudinary enables you to easily [transcode your videos](https://cloudinary.com/
   
 ![Embedded HTML5 video player](https://res.cloudinary.com/demo/video/upload/dog.webm "thumb: w_400, with_code: false")
 
-{% video %}https://res.cloudinary.com/demo/video/upload/dog.mov% endvideo %}
+{% video %}https://res.cloudinary.com/demo/video/upload/w_400/dog.mov% endvideo %}
 
 
 ```
