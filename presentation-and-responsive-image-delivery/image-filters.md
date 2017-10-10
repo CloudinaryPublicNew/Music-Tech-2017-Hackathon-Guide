@@ -54,37 +54,8 @@ OK, so you wanna play too? Here’s a sandbox where you can try out all the avai
 <p>
 </div>
 
-<div class="buttons-container2">
- <span class="filter-button">al_dente</span>
- <span class="filter-button">athena</span>            
- <span class="filter-button">audrey</span>
- <span class="filter-button">aurora</span>
- <span class="filter-button">daguerre</span>
- <span class="filter-button">eucalyptus</span>
-<span class="filter-button">fes</span>
 
- <span class="filter-button">frost</span>
- <span class="filter-button">hairspray</span>            
- <span class="filter-button">hokusai</span>
- <span class="filter-button">incognito</span>
- <span class="filter-button">linen</span>
- <span class="filter-button">peacock</span>
-<span class="filter-button">primavera</span>
-
- <span class="filter-button">quartz</span>
- <span class="filter-button">red_rock</span>            
- <span class="filter-button">refresh</span>
- <span class="filter-button">sizzle</span>
- <span class="filter-button">sonnet</span>
- <span class="filter-button">ukulele</span>
-<span class="filter-button">zorro</span>
-
-</div>
-
-<div class="buttons-container2">
-<span class="default-button">No filter</span>
-</div>
-</div>
+[](codepen:https://codepen.io/dzeitman/full/50a40a784c090b1954a66c0e4114ee0c/?height=800&theme=0)
 
 ## Taking it up a notch
 Above, you can see how simple it is to apply any of the available artistic filters to any photo, but you don’t have to stop there...
