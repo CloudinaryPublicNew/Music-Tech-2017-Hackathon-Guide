@@ -1,6 +1,7 @@
 # Increase engagement with cloud-based artistic image filters 
 
 ![artistic filters in poloroid frames](https://res.cloudinary.com/cloudinary/image/upload/w_700/blog_poloroid_filters_wide.jpg)
+
 Every picture has a story to tell. But the story it tells can change when you change the color tone, saturation, contrast, or other elements of a photo.
 
 A few years ago, post-processing a digital image generally required a high level of skill and expensive software such as PhotoShop. But in recent years, popular photo sharing apps such as Instagram, Flickr, and Snapchat started offering built-in filters. Professionals take advantage of filters to make subtle corrections or adjustments. Casual users often apply more prominent filters that add their own unique touch or just make their images more fun.  
