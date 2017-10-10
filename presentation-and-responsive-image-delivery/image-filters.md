@@ -25,7 +25,7 @@ OK, so you wanna play too? Here’s a sandbox where you can try out all the avai
 [](codepen:https://codepen.io/cloudinary/live/EZYmgz/)
 
 
-<iframe height='800px' scrolling='no' title='dVdVdo' src='//codepen.io/cloudinary/live/EZYmgz/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='1400px' scrolling='no' title='dVdVdo' src='//codepen.io/cloudinary/live/EZYmgz/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 [View Sandbox Demo](///codepen.io/cloudinary/live/EZYmgz/)
 </iframe>
 
