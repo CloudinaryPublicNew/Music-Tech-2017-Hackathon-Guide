@@ -77,13 +77,6 @@ Cloudinary enables you to easily [transcode your videos](https://cloudinary.com/
 
 {% video %}https://res.cloudinary.com/demo/video/upload/w_400/dog.mov% endvideo %}
 
-
-```
-https://demo-res.cloudinary.com/video/upload/w_400/dog.mp4
-```
-
-
-  
       
 The easiest way to transcode to multiple formats is  to use the `cl_video_tag` SDK method in your code. For example, this tiny line of code:  
 
