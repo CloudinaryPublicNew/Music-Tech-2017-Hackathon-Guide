@@ -40,9 +40,9 @@ cloudinary.video("funny_dog", {width: 200, height: 150, gravity: "south", crop: 
 ```
 
 [funny_dog.mp4 resized to 200x150 with fill and south gravity](https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4)
-
+<div style="width:200px">
 {% video %}https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4{% endvideo %}
-
+</div>
 
 
 
