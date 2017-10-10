@@ -3,7 +3,9 @@
 **Sponsored By**
 
 ![](https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_300/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png)  
-![](http://www.sfmusictech.com/wp-content/uploads/2017/08/hackathon_pageheader-1.png)At Cloudinary, we believe images and graphic visualizations greatly enhance the user expeience of music and video.
+![](http://www.sfmusictech.com/wp-content/uploads/2017/08/hackathon_pageheader-1.png)
+
+At Cloudinary, we believe images and graphic visualizations greatly enhance the user expeience of music and video.
 
 Cloudinary is an end-to-end media management solution, providing developers with a powerful API for handling images, videos, audio, and emerging media types. Cloudinary automates media selection, upload, analysis, administration, manipulation, optimization and delivery.
 
