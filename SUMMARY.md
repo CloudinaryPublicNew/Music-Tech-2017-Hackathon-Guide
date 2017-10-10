@@ -18,7 +18,6 @@
 
 ## Auto-Tagging, Facial Recognition and AI
 
-* [Add-ons and other features](https://cloudinary.com/blog/tag/Features-and-Add-ons/4)
 * [Auto Tagging and Facial Recoginition](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
 * [Content Moderation](https:/scotch.io/bar-talk/build-a-content-moderation-service-with-node-and-cloudinary)
 
