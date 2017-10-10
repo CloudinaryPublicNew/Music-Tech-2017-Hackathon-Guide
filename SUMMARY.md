@@ -6,7 +6,7 @@
 
 ##Learn, Code and Recipes
 
-### Audio and Video
+## Audio and Video
 * [Video Transcoding, Cropping and Manipulating Made Easy](https://cloudinary.com/blog/video_transcoding_resizing_cropping_and_manipulating_made_easy)
 
 *  [Get The Most of your HTML 5 Video Player](https://cloudinary.com/blog/how_to_get_the_most_from_the_html5_video_player)
