@@ -22,17 +22,10 @@ But when you use Cloudinary's artistic filters, we handle all the image processi
 ## Sandbox
 
 OK, so you wanna play too? Here’s a sandbox where you can try out all the available filters on a few images with different kinds of content. 
-<!--
-[](codepen:https://codepen.io/cloudinary/live/EZYmgz/)
--->
 
-<iframe height='1400px' scrolling='no' title='dVdVdo' src='//codepen.io/cloudinary/live/EZYmgz/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='1000px' scrolling='no' title='dVdVdo' src='//codepen.io/cloudinary/live/EZYmgz/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
 [View Sandbox Demo](///codepen.io/cloudinary/live/EZYmgz/)
 </iframe>
-
-
-
-
 
 
 ## Taking it up a notch
