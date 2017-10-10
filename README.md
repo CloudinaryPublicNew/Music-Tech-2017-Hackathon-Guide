@@ -19,15 +19,3 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
 * We're extending a 1-year Cloudinary Plus plan \($1,068 value\) award to the hack team that makes the best use of the Cloudinary API.
 * The most creative hacks will be featured on our Blog.
-
-#### Guide Contents:
-
-* Audio and Video Player
-* Auto-Tagging, Facial Recognition and AI
-* CSS Tricks
-* Performance
-* Presentation
-* Responsive Image Delivery
-* Uploading
-* Video
-* Visualization
