@@ -19,7 +19,7 @@
 
 ## Auto-Tagging, Facial Recognition and AI
 
-* [Auto-tagging and other features](https://cloudinary.com/blog/tag/Features-and-Add-ons/4)
+* [Add-ons and other features](https://cloudinary.com/blog/tag/Features-and-Add-ons/4)
 * [Auto tagging and catergorizing photos based on content ](https://cloudinary.com/blog/how_to_automatically_tag_and_categorize_photos_according_to_their_content)
 
 ## Performance
