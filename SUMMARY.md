@@ -1,9 +1,7 @@
-# Summary
+# Music Tech Hackathon Guide
 
-## Overview
+* [Challenge and Prizes](README.md)
 
-* [My Awesome API](README.md)
+## Thought Starters
 
-## Methods
-
-* [Defining Methods](methods.md)
+## Learn, Code and Recipes
