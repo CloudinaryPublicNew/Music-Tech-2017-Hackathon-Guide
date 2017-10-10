@@ -12,7 +12,7 @@
 
 ## Audio and Video
 
-* [Video Transcoding, Cropping and Manipulation](https://cloudinary.com/blog/video_transcoding_resizing_cropping_and_manipulating_made_easy)
+* [Transcode, Crop and Manipulate Video](https://cloudinary.com/blog/video_transcoding_resizing_cropping_and_manipulating_made_easy)
 * [HTML 5 Video Player Tips](https://cloudinary.com/blog/how_to_get_the_most_from_the_html5_video_player)
 * [Protecting Your Videos](https://cloudinary.com/blog/protecting_images_and_videos_via_cookie_based_authentication)
 * [Video Transcoding](audio-and-video/video-transcoding.md)
