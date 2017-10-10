@@ -22,40 +22,9 @@ But when you use Cloudinary's artistic filters, we handle all the image processi
 
 OK, so you wanna play too? Here’s a sandbox where you can try out all the available filters on a few images with different kinds of content. 
 
-<div class="box">
-<font size="small" color="#0b5394">Choose a source image and then click one of the filter buttons below to see the effect:</font>
-<div align="center">
-<span style="display:inline-block;">
- <img align="middle" id="choice1" data-url-choice="choice1" data-url-image="sandbox" class="choice-img" src="https://res.cloudinary.com/demo/image/upload/w_150,ar_3:2,c_fill,g_north,dpr_auto/sandbox.jpg" style=" margin-right: 10px; display:block;" />
-</span>
-<span style="display:inline-block;">
-<img align="middle" id="choice2" data-url-choice="choice2" data-url-image="golf_sand" class="choice-img" src="https://res.cloudinary.com/demo/image/upload/w_150,ar_3:2,c_fill,g_north,dpr_auto/golf_sand.jpg" style="margin-right: 10px; display:block;" />
-</span>
-<span style="display:inline-block;">
-<img align="middle" id="choice3" data-url-choice="choice3" data-url-image="jeep_sand" class="choice-img" src="https://res.cloudinary.com/demo/image/upload/w_150,ar_3:2,c_fill,g_north,dpr_auto/jeep_sand.jpg" style=" margin-right: 10px; display:block;" />
-</span>
-<span style="display:inline-block;">
-<img align="middle" id="choice4" data-url-choice="choice4" data-url-image="old_man_face" class="choice-img" src="https://res.cloudinary.com/demo/image/upload/w_150,ar_3:2,c_fill,g_north,dpr_auto/old_man_face.jpg" style="margin-right: 10px; display:block;" />
-</span>
-</div>
-
-<p/>
-
-<div align="center">
-
-<a id="imagelink" href="https://res.cloudinary.com/demo/image/upload/sandbox.jpg" target="_blank" data-url-template3="https://res.cloudinary.com/demo/image/upload/e_art:#value#/#use-img#.jpg" >
-<img align="middle" id="testpic" src="https://res.cloudinary.com/demo/image/upload/w_450,ar_3:2,c_fill,g_north/l_text:Arial_20:%20No%20filter%20,g_north_east,y_10,x_10,co_white,b_rgb:00000040,r_05/sandbox.jpg" data-url-template="https://res.cloudinary.com/demo/image/upload/w_450,ar_3:2,c_fill,g_north/l_text:Arial_20:%20#value_text#%20,g_north_east,y_10,x_10,co_white,b_rgb:00000040,r_05/e_art:#value#/#use-img#.jpg" />
-</a>
-
-</div>
-
-<div align="center" class="div_url">
- <a id="cloudurl" href="https://res.cloudinary.com/demo/image/upload/sandbox.jpg" target="_blank" data-url-templated="https://res.cloudinary.com/demo/image/upload/e_art:#value#/#use-img#.jpg"><span id="c-url">https://res.cloudinary.com/demo/image/upload/sandbox.jpg</span></a>
-<p>
-</div>
+[](codepen://codepen.io/dzeitman/full/50a40a784c090b1954a66c0e4114ee0c/?height=800&theme=0)
 
 
-[](codepen:https://codepen.io/dzeitman/full/50a40a784c090b1954a66c0e4114ee0c/?height=800&theme=0)
 
 ## Taking it up a notch
 Above, you can see how simple it is to apply any of the available artistic filters to any photo, but you don’t have to stop there...
