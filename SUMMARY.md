@@ -16,6 +16,7 @@
 * [HTML 5 Video Player Tips](https://cloudinary.com/blog/how_to_get_the_most_from_the_html5_video_player)
 * [Protecting Your Videos](https://cloudinary.com/blog/protecting_images_and_videos_via_cookie_based_authentication)
 * [Video Transcoding](audio-and-video/video-transcoding.md)
+* [HTML 5 Video Player](audio-and-video/html-5-video-player.md)
 
 ## Auto-Tagging, Facial Recognition and AI
 
