@@ -1,5 +1,3 @@
-## Summary
-
 * [Challenge and Prizes](README.md)
 
 ## Thought Starters
