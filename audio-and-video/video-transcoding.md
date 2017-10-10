@@ -69,7 +69,10 @@ cloudinary.video("funny_dog", {width: 300, height: 200, background: "#0e4167", c
 
 Scale the width to 300 pixels, the height to 200 pixels, set the quality to 40 and add an overlay saying "Funny Dog" in Roboto 30px white text starting at the 3 second mark and 10 pixels from the bottom of the video:
 
-[funny_dog.mp4](https://res.cloudinary.com/demo/video/upload/w_300,h_200,q_40/l_text:Roboto_30px_bold:Funny%20Dog,co_white,g_south,y_10,so_3/funny_dog.mp4)
+<div style="width:300px">
+{% video %}https://res.cloudinary.com/demo/video/upload/w_300,h_200,q_40/l_text:Roboto_30px_bold:Funny%20Dog,co_white,g_south,y_10,so_3/funny_dog.mp4{% endvideo %}
+</div>
+
 
 Transcode the video to the `webm` format and apply the best codec settings for web viewing with the `vc_auto` parameter, add the `cloudinary_icon` image overlay with a width of 160 pixels and 10 pixels from the northeast corner with a brightness of 200% and an opacity of 70%, and adjust the total width to 350 pixels and the height to 150 pixels while padding with a blue background:
 
