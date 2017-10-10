@@ -27,7 +27,8 @@ The following are some examples of manipulating a video called `funny_dog` that 
 ```
 cloudinary.video("funny_dog")
 ```
-[funny_dog.mp4 original file](https://res.cloudinary.com/demo/video/upload/funny_dog.mp4 "thumb: w_500")
+{% video %}funny_dog.mp4 original file](https://res.cloudinary.com/demo/video/upload/funny_dog.mov{% endvideo %}
+
 
 ### Video resizing and cropping
 
