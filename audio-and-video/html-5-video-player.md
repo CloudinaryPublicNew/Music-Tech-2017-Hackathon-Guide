@@ -172,6 +172,10 @@ For example, for the poster image below, we use second 0:36 of this cool Edinbur
       { :start_offset=>36 } ] }
 ```
 
+{% video %}
+https://res.cloudinary.com/demo/video/upload/c_scale,w_1850/l_movie_curtain_overlay_new/l_text:Courier_80_bold:Once%20upon%20a%20time...,g_north,y_60/so_36/castle_timelapse
+{% endvideo %}
+
 ![Poster image for HTML5 video player](https://res.cloudinary.com/demo/video/upload/c_scale,w_1850/l_movie_curtain_overlay_new/l_text:Courier_80_bold:Once%20upon%20a%20time...,g_north,y_60/so_36/castle_timelapse.jpg "thumb: w_1400, width: 700, height: 440, with_code:false, with_url:false")
 
 #### Thickening the plot
