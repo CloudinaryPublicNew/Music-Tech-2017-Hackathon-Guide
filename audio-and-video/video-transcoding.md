@@ -41,14 +41,29 @@ cloudinary.video("funny_dog", {width: 200, height: 150, gravity: "south", crop: 
 
 [funny_dog.mp4 resized to 200x150 with fill and south gravity](https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4)
 
+{% video %}https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4{% endvideo %}
+
+
+
+
+
+
+
+
 Resize the video to a width of 300 pixels and a height of 200 pixels using the `pad` cropping mode and use a blue background in the case that the video needs padding:
 
 **NodeJS:**
 ```
 cloudinary.video("funny_dog", {width: 300, height: 200, background: "#0e4167", crop: "pad"})
 ```
-
+<!--
 [funny_dog.mp4 resized to 300x200 with pad and blue background](https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4)
+-->
+{% video %}https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4{% endvideo %}
+
+
+
+
 
 ### Video overlays, trimming, transcoding and more
 
