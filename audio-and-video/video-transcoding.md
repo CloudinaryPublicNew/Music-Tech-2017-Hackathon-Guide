@@ -1,6 +1,6 @@
 # Video transcoding, resizing, cropping and manipulating made easy
 
-![](https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_570/dpr_2.0/video_transcoding_manipulation.jpg)
+![](https://cloudinary-res.cloudinary.com/image/upload/c_fill,w_470/dpr_2.0/video_transcoding_manipulation.jpg)
 By Meir Feinberg
 Sep 02, 2015
 
