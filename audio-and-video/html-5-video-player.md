@@ -135,7 +135,8 @@ To control the physical size of videos uploaded to your site, you can use resize
 For example, even if users watch your videos in full screen size, a 1280X720 frame size is generally plenty for most purposes. So, you can limit videos to this maximum size with an upload command such as the following:
 
   
-```ruby  
+### ruby  
+```
 Cloudinary::Uploader.upload("my_video.mp4",:resource_type => :video,
   :eager =>   { :width => 1280, :height => 720, :crop => :scale })
 ```
