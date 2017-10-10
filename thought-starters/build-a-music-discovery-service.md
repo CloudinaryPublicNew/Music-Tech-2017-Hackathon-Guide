@@ -1,4 +1,4 @@
-![](http://res.cloudinary.com/de-demo/image/upload/c_scale,w_900/v1507657525/hackathon-guide-music-discovery-service.jpg)
+![](http://res.cloudinary.com/de-demo/image/upload/c_scale,w_400/v1507657525/hackathon-guide-music-discovery-service.jpg)
 ##Build a Music Discovery Service
 
 Create a community-based music sharing and discovery site.
