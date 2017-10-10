@@ -22,8 +22,8 @@ But when you use Cloudinary's artistic filters, we handle all the image processi
 
 OK, so you wanna play too? Here’s a sandbox where you can try out all the available filters on a few images with different kinds of content. 
 
-[](codepen:https://codepen.io/dzeitman/live/50a40a784c090b1954a66c0e4114ee0c)
-<iframe src="https://codepen.io/dzeitman/live/50a40a784c090b1954a66c0e4114ee0c"/>
+[](codepen:https://codepen.io/cloudinary/live/EZYmgz/)
+<iframe src="https://codepen.io/cloudinary/live/EZYmgz/" width="100%"/>
 
 
 ## Taking it up a notch
