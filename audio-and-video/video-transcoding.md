@@ -27,17 +27,27 @@ The following are some examples of manipulating a video called `funny_dog` that 
 ```
 cloudinary.video("funny_dog")
 ```
-![funny_dog.mp4 original file](https://res.cloudinary.com/demo/video/upload/funny_dog.mp4 "thumb: w_500")
+[funny_dog.mp4 original file](https://res.cloudinary.com/demo/video/upload/funny_dog.mp4 "thumb: w_500")
 
 ### Video resizing and cropping
 
 Resize the video to a width of 200 pixels and a height of 150 pixels using the `fill` cropping mode and focusing on the bottom of the video in the case that only a portion of the video is used:
 
+**NodeJS:**
+```
+cloudinary.video("funny_dog", {width: 200, height: 150, gravity: "south", crop: "fill"})
+```
+
 ![funny_dog.mp4 resized to 200x150 with fill and south gravity](https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4)
 
 Resize the video to a width of 300 pixels and a height of 200 pixels using the `pad` cropping mode and use a blue background in the case that the video needs padding:
 
-![funny_dog.mp4 resized to 300x200 with pad and blue background](https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4)
+**NodeJS:**
+```
+cloudinary.video("funny_dog", {width: 300, height: 200, background: "#0e4167", crop: "pad"})
+```
+
+[funny_dog.mp4 resized to 300x200 with pad and blue background](https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4)
 
 ### Video overlays, trimming, transcoding and more
 
