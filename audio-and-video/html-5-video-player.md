@@ -80,23 +80,34 @@ Cloudinary enables you to easily [transcode your videos](https://cloudinary.com/
       
 The easiest way to transcode to multiple formats is  to use the `cl_video_tag` SDK method in your code. For example, this tiny line of code:  
 
-```multi
-|ruby
-cl_video_tag("dog")
 
-|php
+### ruby
+```
 cl_video_tag("dog")
+```
 
-|python
+### php
+```
+cl_video_tag("dog")
+```
+
+### python
+```
 CloudinaryVideo("dog").video()
+```
 
-|nodejs
+### nodejs
+```
 cloudinary.video("dog")
+```
 
-|java
+### java
+```
 cloudinary.url().videoTag("dog")
+```
 
-|jquery
+### jquery
+```
 $.cloudinary.video("dog")
 ```
 
