@@ -1,12 +1,10 @@
 # Summary
 
-## Music Tech Hackathon Guide
-
 * [Challenge and Prizes](README.md)
 
-## Thought Starters
+# Thought Starters
 
-## Learn, Code and Recipes
+#Learn, Code and Recipes
 ### Audio and Video
 * [Video Transcoding, Cropping and Manipulating Made Easy](https://cloudinary.com/blog/video_transcoding_resizing_cropping_and_manipulating_made_easy)
 
