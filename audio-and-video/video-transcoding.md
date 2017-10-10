@@ -39,7 +39,9 @@ Resize the video to a width of 200 pixels and a height of 150 pixels using the `
 cloudinary.video("funny_dog", {width: 200, height: 150, gravity: "south", crop: "fill"})
 ```
 
-[funny_dog.mp4 resized to 200x150 with fill and south gravity](https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4)
+[funny_dog.mp4 resized to 200x150 with fill and south gravity]
+(https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4)
+
 <div style="width:200px">
 {% video %}https://res.cloudinary.com/demo/video/upload/w_200,h_150,c_fill,g_south/funny_dog.mp4{% endvideo %}
 </div>
@@ -56,11 +58,9 @@ Resize the video to a width of 300 pixels and a height of 200 pixels using the `
 ```
 cloudinary.video("funny_dog", {width: 300, height: 200, background: "#0e4167", crop: "pad"})
 ```
-<!--
-[funny_dog.mp4 resized to 300x200 with pad and blue background](https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4)
--->
+<div style="width:300px">
 {% video %}https://res.cloudinary.com/demo/video/upload/w_300,h_200,c_pad,b_rgb:0e4167/funny_dog.mp4{% endvideo %}
-
+</div>
 
 
 
