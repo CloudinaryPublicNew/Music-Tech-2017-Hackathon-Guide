@@ -341,7 +341,10 @@ style="margin: 0 auto;display: block" width="640">
 ```
 
 
-![Example of live HTML5 video player](https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.mp4)
+
+
+{%video%}https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.mp4{%endvideo%}
+
 
 ## Adding a few more magic touches to your Video Player
 
