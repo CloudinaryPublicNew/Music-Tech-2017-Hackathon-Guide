@@ -85,6 +85,13 @@ cloudinary.video("funny_dog", {transformation: [
   ```
 [funny_dog.mp4 padded to 350x150 and transcoded to webm with an overlay](https://res.cloudinary.com/demo/video/upload/vc_auto/l_cloudinary_icon,g_north_east,e_brightness:200,o_70,x_10,y_10,w_160/w_350,h_150,c_pad,b_rgb:0e4167/funny_dog.webm)
 
+
+<div style="width:350px">
+{% video %}https://res.cloudinary.com/demo/video/upload/vc_auto/l_cloudinary_icon,g_north_east,e_brightness:200,o_70,x_10,y_10,w_160/w_350,h_150,c_pad,b_rgb:0e4167/funny_dog.mp4{% endvideo %}
+</div>
+
+
+
 There are plenty of additional video and image manipulation options that you can choose from, we have only shown a few here to give a small taste of how easy it is to manipulate your videos. See our [video documentation](https://cloudinary.com/documentation/video_manipulation_and_delivery) for more details and examples.
 
 ## Creating an image thumbnail from a video
