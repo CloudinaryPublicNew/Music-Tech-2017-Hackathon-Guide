@@ -19,14 +19,13 @@
 ## Auto-Tagging, Facial Recognition and AI
 
 * [Auto Tagging and Facial Recoginition](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
+* [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
 * [Content Moderation](https:/scotch.io/bar-talk/build-a-content-moderation-service-with-node-and-cloudinary)
 
-
-
 ## Performance
+
 * [Rich Image Delivery](performance/rich-image-delivery.md)
 * [Auto Crop Responsive Images](performance/auto-crop-responsive-images.md)
-
 
 ## Presentation and Responsive Image Delivery
 
@@ -34,9 +33,11 @@
 * [Image Filters](presentation-and-responsive-image-delivery/image-filters.md)
 * [Size Images to fit Your Graphic Design](presentation-and-responsive-image-delivery/size-images-to-fit-your-graphic-design.md)
 
-
 ## Uploading
+
 * [Upload videos from dropbox and other sources](uploading/upload-videos-from-dropbox-and-other-sources.md)
 
 ## Visualization
+
 * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
+
