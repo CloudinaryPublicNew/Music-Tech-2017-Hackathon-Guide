@@ -19,10 +19,21 @@
 
 *  [Auto tagging and catergorizing photos based on content ](https://cloudinary.com/blog/how_to_automatically_tag_and_categorize_photos_according_to_their_content)
 
-### CSS Tricks
 ### Performance
-### Presentation
-### Responsive Image Delivery
+* [Simplifying Rich Image Delivery](https://cloudinary.com/blog/simplifying_image_rich_website_development_interactive_demo)
+
+* [Smart Cropping and Intelligent Quality Selection for Automating Responsive Images](https://cloudinary.com/blog/introducing_smart_cropping_intelligent_quality_selection_and_automated_responsive_images)
+
+### Presentation and Responsive Image Delivery
+
+* [Turn Photos to Art with Style Transfer](https://cloudinary.com/blog/from_photos_to_art_with_style_transfer)
+
+* [Increase Audience Engagement with Image Filters](https://cloudinary.com/blog/increase_engagement_with_cloud_based_artistic_image_filters)
+
+*  [Dynamically Distort Images to fit Your Graphic Design](https://cloudinary.com/blog/how_to_dynamically_distort_images_to_fit_your_graphic_design)
+
 ### Uploading
-### Video
+* [Let users upload their videos from dropbox and other sources](https://cloudinary.com/blog/how_to_let_your_users_upload_images_directly_from_facebook_dropbox_and_more)
+
 ### Visualization
+* [How to Generate Waveform Images from Audio Files](https://cloudinary.com/blog/how_to_generate_waveform_images_from_audio_files)
