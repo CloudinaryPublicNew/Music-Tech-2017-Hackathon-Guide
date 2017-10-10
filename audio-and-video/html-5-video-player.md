@@ -296,7 +296,8 @@ In the following example:
 * And of-course by default, we still get the video player `controls` and video output in all `three formats`.
 
 
-```ruby  
+### ruby  
+```
 cl_video_tag("castle_timelapse.mp4",  
   :loop => true, 
   :poster => { :transformation => 
@@ -314,8 +315,9 @@ cl_video_tag("castle_timelapse.mp4",
 ```
   
 Here’s the `<video>` tag it generates:  
-  
-```html
+
+### html
+```
 <video controls="controls" height="360" loop poster="https://res.cloudinary.com/demo/video/upload/c_scale,w_1850/l_movie_curtain_overlay_new/l_text:Courier_80_bold:Once%20upon%20a%20time...,g_north,y_60/so_36/castle_timelapse.jpg" preload="none" style="margin: 0 auto;display: block" width="640">
 
   <source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.webm" type="video/webm" />
@@ -329,9 +331,14 @@ Here’s the `<video>` tag it generates:
 
   
 And here’s the final video. Grab the popcorn!
-
-<video controls="controls" height="360" loop poster="https://res.cloudinary.com/demo/video/upload/c_scale,w_1850/l_movie_curtain_overlay_new/l_text:Courier_80_bold:Once%20upon%20a%20time...,g_north,y_60/so_36/castle_timelapse.jpg" preload="none" style="margin: 0 auto;display: block" width="640"><source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.webm" type="video/webm" /> </source><source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.mp4" type="video/mp4" /></source>  <source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.ogv" type="video/ogg" /></source></video>
-
+```
+<video controls="controls" height="360" loop poster="https://res.cloudinary.com/demo/video/upload/c_scale,w_1850/l_movie_curtain_overlay_new/l_text:Courier_80_bold:Once%20upon%20a%20time...,g_north,y_60/so_36/castle_timelapse.jpg" 
+preload="none" 
+style="margin: 0 auto;display: block" width="640">
+<source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.webm" type="video/webm" /> </source>
+<source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.mp4" type="video/mp4" /></source>  
+<source src="https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.ogv" type="video/ogg" /></source></video>
+```
 
 
 ![Example of live HTML5 video player](https://res.cloudinary.com/demo/video/upload/c_pad,h_480,w_640,q_70,du_60,e_fade:4000/l_princess_small,h_100,so_0.5,g_west,y_80/castle_timelapse.mp4)
