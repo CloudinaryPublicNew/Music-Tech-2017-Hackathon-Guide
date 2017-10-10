@@ -24,13 +24,13 @@
 
 ## Performance
 
-* [Simplifying Rich Image Delivery](https://cloudinary.com/blog/simplifying_image_rich_website_development_interactive_demo)
-* [Cropping and Automating Responsive Images](https://cloudinary.com/blog/introducing_smart_cropping_intelligent_quality_selection_and_automated_responsive_images)
+* [Rich Image Delivery](https://cloudinary.com/blog/simplifying_image_rich_website_development_interactive_demo)
+* [Auto Crop Responsive Images](https://cloudinary.com/blog/introducing_smart_cropping_intelligent_quality_selection_and_automated_responsive_images)
 
 ## Presentation and Responsive Image Delivery
 
 * [Turn Photos to Art with Style Transfer](https://cloudinary.com/blog/from_photos_to_art_with_style_transfer)
-* [Increase Audience Engagement with Image Filters](https://cloudinary.com/blog/increase_engagement_with_cloud_based_artistic_image_filters)
+* [Image Filters](https://cloudinary.com/blog/increase_engagement_with_cloud_based_artistic_image_filters)
 * [Size Images to fit Your Graphic Design](https://cloudinary.com/blog/how_to_dynamically_distort_images_to_fit_your_graphic_design)
 
 ## Uploading
