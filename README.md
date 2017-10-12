@@ -1,4 +1,4 @@
-[[](/hacker-survey.md](/hacker-survey.md))# Music Tech Hackathon Guide
+# Music Tech Hackathon Guide
 
 **Sponsored By**
 
