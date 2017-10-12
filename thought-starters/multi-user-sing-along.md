@@ -4,8 +4,8 @@
 
 Create a virtual American Idol face off singing competition.  Challenge your users to sing along a trending tune, upload and transcode the videos into a series of streams to create an acapella video.
 
-
-{% video %}https://youtu.be/rzeCI6-hWrY{% endvideo %}
+**_Here's a video for some inspiration!_**
+{% youtube src="https://youtu.be/rzeCI6-hWrY" %}{% endyoutube %}
 
 ---
 
