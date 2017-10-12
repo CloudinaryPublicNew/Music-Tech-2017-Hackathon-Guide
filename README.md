@@ -1,4 +1,4 @@
-# Music Tech Hackathon Guide
+[[](/hacker-survey.md](/hacker-survey.md))# Music Tech Hackathon Guide
 
 **Sponsored By**
 
@@ -20,6 +20,6 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
 
 **Survey:**
-Enter our survey and get a chance to win a drone!  
+Enter our [[survey](/www.cloudinary.com)](/hacker-survey.md) and get a chance to win a drone!  
 ![](/assets/drone.png)
 <hr>
