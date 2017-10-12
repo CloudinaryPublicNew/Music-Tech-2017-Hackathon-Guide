@@ -8,7 +8,7 @@
 ## Thought Starters
 
 * [Build a Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
-* [Multi User Sing Along ](thought-starters/multi-user-sing-along.md)
+* [Multi-User Sing Along ](thought-starters/multi-user-sing-along.md)
 * [Build Styled Cover Art and Fan Pages](thought-starters/build-styled-fan-pages-from-artist-photos.md)
 
 ## Learn, Code and Recipes
@@ -46,6 +46,4 @@
 ## Visualization
 
 * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
-
-
 
