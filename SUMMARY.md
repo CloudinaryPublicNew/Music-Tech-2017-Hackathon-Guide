@@ -3,7 +3,7 @@
 ## Music Tech Hachathon Guide
 
 * [Challenge and Prizes](README.md)
-* [Hacker Survey](hacker-survey.md)
+* [Developer Survey](hacker-survey.md)
 
 ## Thought Starters
 
@@ -31,8 +31,6 @@
 
 * [Rich Image Delivery](performance/rich-image-delivery.md)
 * [Auto Crop Responsive Images](performance/auto-crop-responsive-images.md)
-
-
 
 ## Presentation and Responsive Image Delivery
 
