@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ,"html5-video","codepen"],
+    "plugins": [ "theme-api" ,"html5-video","codepen","youtube"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
