@@ -3,10 +3,12 @@
 ## Music Tech Hachathon Guide
 
 * [Challenge and Prizes](README.md)
+* [Hacker Survey](hacker-survey.md)
 
 ## Thought Starters
 
 * [Build a Music Discovery Service](thought-starters/build-a-music-discovery-service.md)
+* [Build Styled Fan Pages from Artist Photos](thought-starters/build-styled-fan-pages-from-artist-photos.md)
 
 ## Learn, Code and Recipes
 
