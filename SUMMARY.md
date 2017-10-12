@@ -3,7 +3,6 @@
 ## Music Tech Hachathon Guide
 
 * [Challenge and Prizes](README.md)
-* [Developer Survey](hacker-survey.md)
 
 ## Thought Starters
 
@@ -46,4 +45,6 @@
 ## Visualization
 
 * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
+
+
 
