@@ -2,7 +2,9 @@
 
 ## Build Styled Cover Art and Fan Pages
 
-Use style transfer to [generate neural artwork styled images](/presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md) with the artist branded graphics by processing fan photos, venue/event photos of artist events into amazing cover art and fan pages. 
+Use style transfer to [generate neural artwork styled images](/presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md) with the artist branded graphics by processing fan photos, venue/event photos of artist events into amazing cover art and fan pages.
+
+Let your users compete in fan-boy \| fan-girl  [image art contest](https://faas-cloudinary.com/wt-60a287cd40c53f6e56bd60ac8922bc3e-0/style-transfer).  Feel free to fork our project and take it up a notch by adding social media sharing and other features. 
 
 ---
 
