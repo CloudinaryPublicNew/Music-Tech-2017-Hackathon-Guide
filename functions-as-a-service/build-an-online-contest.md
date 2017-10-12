@@ -2,8 +2,7 @@
 
 We recently released a online [contest](https://codepen.io/cloudinary/full/LjqJEG/) to showcase our Neural Artwork Style Transfer add-on feature of Cloudinary's APIs.
 
-![](/assets/contest.png)Our goal was to show developers how to quickly build an engaging and fun online contest using _**functions as a service **_or _**FAAS** _and our APIs.  Check out the [contest](/h ttps://codepen.io/cloudinary/full/LjqJEG/) and [leaderboard](https://faas-cloudinary.com/wt-60a287cd40c53f6e56bd60ac8922bc3e-0/style-transfer/view/no-token),  follow the links below to review the code on our GitHub Gists. 
-
+![](/assets/contest.png)Our goal was to show developers how to quickly build an engaging and fun online contest using _**functions as a service **or _**FAAS** and our APIs.  Check out the [contest](/h ttps://codepen.io/cloudinary/full/LjqJEG/) and [leaderboard](https://faas-cloudinary.com/wt-60a287cd40c53f6e56bd60ac8922bc3e-0/style-transfer/view/no-token),  follow the links below to review the code on our GitHub Gists.
 
 ## Serverless Functions
 
