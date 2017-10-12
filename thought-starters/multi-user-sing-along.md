@@ -6,6 +6,7 @@ Create a virtual American Idol face off singing competition.  Challenge your use
 
 **_Here's a video for some inspiration!_**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rzeCI6-hWrY" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## Choose a Serverless Stack
