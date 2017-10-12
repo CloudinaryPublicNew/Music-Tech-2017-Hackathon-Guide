@@ -1,8 +1,8 @@
-![](http://res.cloudinary.com/de-demo/image/upload/c_scale,w_400/v1507657525/hackathon-guide-music-discovery-service.jpg)
+![](/assets/Imperial-styled.jpg)
 
 ## Build Styled Fan Pages from Artist Photos
 
-Use style transfer to generate neural artwork styled images with the artist branded graphics by processing fan photos, venue/event photos of artist events, etc.
+Use style transfer to [generate neural artwork styled images](/presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md) with the artist branded graphics by processing fan photos, venue/event photos of artist events, etc.
 
 ### Choose a Serverless Stack
 
@@ -21,6 +21,4 @@ We know your Hackathon experience will be fun and engaging.  Don't forget to sha
 ## Tell us about your final hack
 
 We'd love to hear what you built at the hackathon, we may even showcase it.  [Drop us a line](mailto:Dan.Gilmore@cloudinary.com).
-
-
 
