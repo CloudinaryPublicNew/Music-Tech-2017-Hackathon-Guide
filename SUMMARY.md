@@ -3,7 +3,7 @@
 ## Music Tech Hackathon Guide
 
 * [Challenge and Prizes](README.md)
-* Developer Survey
+* [Developer Survey](/hacker-survey.md)
 
 ## Thought Starters
 
