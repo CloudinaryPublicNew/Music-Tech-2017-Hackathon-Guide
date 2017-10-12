@@ -23,13 +23,14 @@
 * [Auto Tagging and Facial Recoginition](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
 * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
 
-## Functions As A Service
-* [Building Style Transfer App]()
-
 ## Performance
 
 * [Rich Image Delivery](performance/rich-image-delivery.md)
 * [Auto Crop Responsive Images](performance/auto-crop-responsive-images.md)
+
+## Serverless Functions
+
+* [Build an online contest](functions-as-a-service/build-an-online-contest.md)
 
 ## Presentation and Responsive Image Delivery
 
@@ -44,6 +45,4 @@
 ## Visualization
 
 * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
-
-
 
