@@ -1,8 +1,9 @@
 # Summary
 
-## Music Tech Hachathon Guide
+## Music Tech Hackathon Guide
 
 * [Challenge and Prizes](README.md)
+* Developer Survey
 
 ## Thought Starters
 
