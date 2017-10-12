@@ -1,8 +1,10 @@
 ![](/assets/Imperial-styled.jpg)
 
-## Build Styled Fan Pages from Artist Photos
+## Build Styled Cover Art and Fan Pages
 
-Use style transfer to [generate neural artwork styled images](/presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md) with the artist branded graphics by processing fan photos, venue/event photos of artist events, etc.
+Use style transfer to [generate neural artwork styled images](/presentation-and-responsive-image-delivery/turn-photos-to-art-with-style-transfer.md) with the artist branded graphics by processing fan photos, venue/event photos of artist events into amazing cover art and fan pages. 
+
+---
 
 ### Choose a Serverless Stack
 

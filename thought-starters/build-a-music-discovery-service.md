@@ -8,6 +8,8 @@ Engage users with [beautiful visualizations](/visualization/audio-to-waveform-im
 
 Use our powerful APIs to search the fan photos and videos that have been[ auto-tagged and automatically identified](/auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md) upon upload. Add [content moderation](/auto-tagging-facial-recognition-and-ai/content-moderation.md) to ensure that your user uploads meets your commnity standards.
 
+---
+
 ### Choose a Serverless Stack
 
 Resist the urge to create an express app and deploy a server for this one!  Instead focus on using each API directly within a Single Page App \(SPA\) to take advantage of the responsive design possibilities.
