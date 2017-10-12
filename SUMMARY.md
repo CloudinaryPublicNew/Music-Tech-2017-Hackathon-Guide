@@ -23,6 +23,9 @@
 * [Auto Tagging and Facial Recoginition](auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md)
 * [Content Moderation](auto-tagging-facial-recognition-and-ai/content-moderation.md)
 
+## Functions As A Service
+* [Building Style Transfer App]()
+
 ## Performance
 
 * [Rich Image Delivery](performance/rich-image-delivery.md)
@@ -41,4 +44,6 @@
 ## Visualization
 
 * [Audio to Waveform Images](visualization/audio-to-waveform-images.md)
+
+
 
