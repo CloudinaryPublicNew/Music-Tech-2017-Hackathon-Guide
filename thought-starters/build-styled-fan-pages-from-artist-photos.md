@@ -20,7 +20,7 @@ We've organized the Cloudinary resources in this guide by functionality so you c
 
 ### Tweet/Share your Experience
 
-We know your Hackathon experience will be fun and engaging.  Don't forget to share that with your friends on social media.   _**In fact, we've added links to the top of this guide so you can do just that.**_ Learning about visualizing an audio waveform? Show the world what you are working on and let them learn about the technologies right along with you.
+We know your Hackathon experience will be fun and engaging.  Don't forget to share that with your friends on social media.   _**In fact, we've added links at the top of this guide to make sharing easy.**_ Learning about visualizing an audio waveform? Show the world what you are working on and let them learn about the technologies right along with you.
 
 ## Tell us About your Cool Hack
 
