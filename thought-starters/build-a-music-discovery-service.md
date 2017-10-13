@@ -20,11 +20,11 @@ Cloudinary's APIs work elegantly with Auth0 [Webtasks](https://webtask.io) and o
 
 We've organized the Cloudinary resources in this guide by functionality so you can quickly add a feature to your application. Each article is a short and concise walkthrough, so you won't have to comb too deep through our extensive [documentation](https://cloudinary.com/documentation), unless you want to.
 
-### Tweet and Share about your experience at this hackathon!
+### Tweet and Share your Experience
 
-We know your Hackathon experience will be fun and engaging.  Don't forget to share that with your friends on social media.   In fact we've added links to the top of this guide so you can do just that. Learning about visualizing an audio waveform? Show the world what you are working on and let them learn about the technologies right along with you.
+We know your Hackathon experience will be fun and engaging.  Don't forget to share that with your friends on social media.   In fact, we've added links at the top of this guide to make sharing easy. Learning about visualizing an audio waveform? Show the world what you are working on and let them learn about these cool technologies, right along with you.
 
-## Tell us about your final hack
+## Tell us About your Cool Hack
 
 We'd love to hear what you built at the hackathon, we may even showcase it, so [drop us a line](mailto:Dan.Gilmore@cloudinary.com).
 
