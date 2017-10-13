@@ -1,5 +1,7 @@
 # Music Tech Hackathon Guide
 
+Get ready! It's tomorrow!
+
 The SF Music Tech Hackathon is 24 hours of straight action as hackers, innovators, tech specialists, artists, makers and coders use and share their knowledge to develop the new, innovative solutions in the MusicTech industry.
  The event is help on October 14-15, from 1pm Saturday to 4pm Sunday at Upload SF, 1535 Mission Street, San Francisco, CA 94103
   
