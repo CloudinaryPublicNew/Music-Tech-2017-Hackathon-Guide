@@ -3,10 +3,10 @@
 ## Build a Music Discovery Service
 
 Create a community-based music sharing and discovery site.  
-Make the focus on user-generated content,  let your users  [upload](/uploading/upload-videos-from-dropbox-and-other-sources.md) their music, tag and catergorize their music.  
+Make the focus on user-generated content,  let your users  [upload](/uploading/upload-videos-from-dropbox-and-other-sources.md) their music, tag and categorize their music.  
 Engage users with [beautiful visualizations](/visualization/audio-to-waveform-images.md) the music audio and video tracks.   Showcase each video using our [HTML5 Video Player](/audio-and-video/html-5-video-player.md).    Display beautiful layouts of artists,  album art and fan photos in [rich and responsive layouts](/performance/rich-image-delivery.md) and [sized perfectly ](/performance/auto-crop-responsive-images.md)for your design and each type of device.
 
-Use our powerful APIs to search the fan photos and videos that have been[ auto-tagged and automatically identified](/auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md) upon upload. Add [content moderation](/auto-tagging-facial-recognition-and-ai/content-moderation.md) to ensure that your user uploads meets your commnity standards.
+Use our powerful APIs to search the fan photos and videos that have been[ auto-tagged and automatically identified](/auto-tagging-facial-recognition-and-ai/add-ons-and-other-features.md) upon upload. Add [content moderation](/auto-tagging-facial-recognition-and-ai/content-moderation.md) to ensure that your user uploads meets your community standards.
 
 ---
 
@@ -14,7 +14,7 @@ Use our powerful APIs to search the fan photos and videos that have been[ auto-t
 
 Resist the urge to create an express app and deploy a server for this one!  Instead focus on using each API directly within a Single Page App \(SPA\) to take advantage of the responsive design possibilities.
 
-Cloudinary's APIs work extremely well with Auth0 [Webtasks](https://webtask.io) and other serverless platforms.  We support many languages, including JavaScript and [Node.js](https://cloudinary.com/documentation/node_integration).
+Cloudinary's APIs work elegantly with Auth0 [Webtasks](https://webtask.io) and other serverless platforms.  We support many languages, including JavaScript and [Node.js](https://cloudinary.com/documentation/node_integration).
 
 ### Use This Guide As Starting Point
 
