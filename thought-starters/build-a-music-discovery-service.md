@@ -26,5 +26,5 @@ We know your Hackathon experience will be fun and engaging.  Don't forget to sha
 
 ## Tell us about your final hack
 
-We'd love to hear what you built at the hackathon, we may even showcase it.  [Drop us a line](mailto:Dan.Gilmore@cloudinary.com).
+We'd love to hear what you built at the hackathon, we may even showcase it, so [drop us a line](mailto:Dan.Gilmore@cloudinary.com).
 
