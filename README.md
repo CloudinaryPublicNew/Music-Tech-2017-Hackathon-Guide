@@ -24,6 +24,6 @@ Build and demonstrate the best use of Cloudinary in your hack to win fun prizes.
 
 **Survey:**
 
-Enter our [survey](//hacker-survey.md) and get a chance to win a drone!  
+Enter our [survey](//hacker-survey.md) for a chance to win a drone!  
 ![](/assets/drone.png)
 <hr>
